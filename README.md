@@ -22,8 +22,8 @@ By combining both approaches, **Elastic Net provides a more stable and balanced 
 
 ### Step 1: Open the Notebooks in Colab
 Click the links below to open the examples directly in **Google Colab**:
-- [Predicting Disease Risk](https://colab.research.google.com/github/your-repo/diabetes_risk_prediction.ipynb)
-- [Stock Price Forecasting](https://colab.research.google.com/github/your-repo/stock_price_forecasting.ipynb)
+- [Predicting Disease Risk](https://colab.research.google.com/github/mikeninerbravog/POC_ML_ElasticNet/blob/master/POC_ML_ElasticNet.ipynb)
+- [Stock Price Forecasting](https://colab.research.google.com/github/mikeninerbravog/POC_ML_ElasticNet/blob/master/POC_ML_ElasticNet.ipynb)
 
 ### Step 2: Install Dependencies (if needed)
 Google Colab usually comes with required libraries pre-installed. However, if needed, run:
